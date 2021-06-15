@@ -1,4 +1,4 @@
-package Future.Tech.TechnologyTest.lock;
+package Future.Tech.technologyTest.lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

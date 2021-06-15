@@ -1,4 +1,4 @@
-package Future.Tech.TechnologyTest.VolatileDemo;
+package Future.Tech.technologyTest.volatiledemo;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
